@@ -1,2 +1,1 @@
-# christine-portfolio
-A portfolio for my sister
+README.md
