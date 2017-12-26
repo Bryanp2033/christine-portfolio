@@ -1,8 +1,8 @@
 {
-    "title": "Creative",
-    "name": "startbootstrap-creative",
+    "title": "Christine's Personal site",
+    "name": "Christine Porras Portfolio",
     "version": "4.0.0-beta.2",
-    "description": "Creative is a stylish one page HTML theme for Bootstrap.",
+    "description": "A Portfolio for my sister made by me(Bryan)",
     "keywords": [
         "css",
         "sass",
@@ -11,19 +11,17 @@
         "theme",
         "template"
     ],
-    "homepage": "https://startbootstrap.com/template-overviews/creative",
     "bugs": {
-        "url": "https://github.com/BlackrockDigital/startbootstrap-creative/issues",
-        "email": "feedback@startbootstrap.com"
+        "email": "bryanporras2033@gmail.com"
     },
     "license": "MIT",
-    "author": "Start Bootstrap",
+    "author": "Bryan Porras",
     "contributors": [
         "David Miller (http://davidmiller.io/)"
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/BlackrockDigital/startbootstrap-creative.git"
+        "url": "https://github.com/Bryanp2033/christine-portfolio.git"
     },
     "dependencies": {
         "bootstrap": "^4.0.0-beta.2",
@@ -41,5 +39,8 @@
         "gulp-rename": "^1.2.2",
         "gulp-sass": "^3.1.0",
         "gulp-uglify": "3.0.0"
-    }
+    },
+    "scripts": {
+        "start": "node index.html"
+      }
 }
