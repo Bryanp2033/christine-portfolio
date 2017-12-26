@@ -1,8 +1,8 @@
 {
     "title": "Christine's Personal site",
-    "name": "Christine Porras Portfolio",
+    "name": "startbootstrap-creative",
     "version": "4.0.0-beta.2",
-    "description": "A Portfolio for my sister made by me(Bryan)",
+    "description": "Christine's Personal site",
     "keywords": [
         "css",
         "sass",
@@ -13,9 +13,6 @@
     ],
     "bugs": {
         "email": "bryanporras2033@gmail.com"
-    },
-    "scripts": {
-        "start": "node index.html"
     },
     "license": "MIT",
     "author": "Bryan Porras",
@@ -42,5 +39,8 @@
         "gulp-rename": "^1.2.2",
         "gulp-sass": "^3.1.0",
         "gulp-uglify": "3.0.0"
+    },
+    "scripts": {
+        "start": "node index.html"
     }
 }
